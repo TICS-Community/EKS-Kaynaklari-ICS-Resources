@@ -1,8 +1,5 @@
 # EKS-Kaynaklari-ICS-Resources
 
-# EKS-Kaynakları/ICS-Repositories
-
-
 ## Topluluklar/Communities
 
 Ülke    |Açıklama                              |Web Sayfası           |Twitter        |Kanallar                    |
